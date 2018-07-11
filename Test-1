@@ -1,0 +1,6 @@
+class Noe{
+
+pubic  static void main(String []args){
+Syetem.out.printon("世界你好")
+  }
+}
