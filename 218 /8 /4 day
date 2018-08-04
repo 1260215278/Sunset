@@ -1,0 +1,14 @@
+class  time
+{
+  public static void main(String[] args)
+  {
+    int   s=0;
+    int t=10;
+    int a=50;
+    public void yunSuan(){
+    s=t+a;
+    System.out.print(s);
+    
+    
+  }
+}
